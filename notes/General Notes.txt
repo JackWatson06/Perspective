@@ -3,3 +3,8 @@
 
 - I am going to use Three.js instead of Pixi js since it may be easier.
 - Nevermind goin back to Pixi since this is manly a 2D game.
+- Trying to figure out how I want to add the cross sections of the 3D animated objects in the game
+I may just be able to take the cross sections in a program like Maya and export it to a 2D image
+I would then just need to animate the models in Maya then go from there. The downsides is that I can 
+not add models dynamically I would have to go through a really annoying process
+- If I can figure out a way to dynamically add animated 3D models to the scene that would be great.
