@@ -1,0 +1,5 @@
+
+	General Notes
+
+- I am going to use Three.js instead of Pixi js since it may be easier.
+- Nevermind goin back to Pixi since this is manly a 2D game.
